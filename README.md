@@ -14,8 +14,6 @@ O script `main.py` apresenta um menu interativo onde o usuário pode escolher o 
 *   LCI / LCA
 *   Outra taxa definida pelo usuário
 
-*(Opcional: Adicionar detalhes sobre quais parâmetros o usuário precisa inserir, como valor inicial, aportes, período, etc.)*
-
 ## Tecnologias Utilizadas
 
 *   Python 3
